@@ -12,7 +12,7 @@
 
 ### Sleep Study Data Merge
 
-[Sleep Study Merge Data Specifications Download](https://github.com/kpydise2/SAS_Examples/blob/main/sleepstudy_mergeproject/SleepDataSet_Specifications (1).docx?raw=true)
+[Sleep Study Merge Data Specifications Download](https://github.com/kpydise2/SAS_Examples/blob/main/sleepstudy_mergeproject/SleepDataSet_Specifications.docx?raw=true
 
 
 
